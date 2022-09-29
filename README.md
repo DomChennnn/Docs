@@ -1,3 +1,3 @@
 # Docs
 Docs including something maybe useful 
-use server bypycharm
+/use server by pycharm
